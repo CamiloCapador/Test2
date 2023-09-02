@@ -8,7 +8,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Test2 {
     public static void main(String[] args) throws InterruptedException {
-        //JUAN CAMILO GARZON
+        //JUAN CAMILO GARZON CAPADOR
+        //70935
 
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Camilo\\IdeaProjects\\Test2\\src\\main\\resources\\chromedriver.exe");
 
